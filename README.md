@@ -1,8 +1,19 @@
-# EDA-on-IMDb-Data
+# EDA - Exploratory Data Analysis
+Data Cleaning (Null value treatment, Duplicated)
+Data Vizualization with insights explaination
+Data preprocessing, Data Transformation (skewed data)
+Data Manipulation
+Feature Engineering
+Hierarchy code (whole jupyter notebook can processed in one click)
 
- 
-# Performing Exploratary Data Analysis on a dataset that contains information on Movies.
-# Data Cleaning
-# Includes Feature Enginnering.
-# Data Visualization.
-# Softwares and libraries used - Python Jupyter, Numpy, Pandas, Matplotlib, Seaborn
+
+# Softwears and libraries used :
+
+Jupyter notebook
+Python version 3.6
+Numpy
+Pandas
+Matplotlib
+Seaborn
+scikit-learn
+Math
